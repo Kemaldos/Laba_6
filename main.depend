@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1681019073 source:c:\users\user\desktop\Уник\c\6laba\main2\main\menu.c
+	"Base.h"
+
+1681017679 c:\users\user\desktop\Уник\c\6laba\main2\main\base.h
+	<conio.h>
+	<graphics.h>
+	<unistd.h>
+	<stdio.h>
+
+1266076214 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1681039197 source:c:\users\user\desktop\Уник\c\6laba\main2\main\text.c
+	"Base.h"
+
+1681010894 source:c:\users\user\desktop\Уник\c\6laba\main2\main\main.c
+	"Base.h"
+
